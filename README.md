@@ -26,6 +26,8 @@ We welcome you to explore, make suggestions, and contribute to our code.
     - [User stories and other requirements](https://github.com/18F/bpa-fs-epermit-api) 
     - [Schemas describing how ePermitting fields match SUDS fields](https://github.com/18F/fs-permit-api-schemas)
 
+ - [Project Wiki](https://github.com/18F/fs-online-permitting/wiki) This details the work done so far, with details each month.
+
 ## Discovery research
 
 We started this project with substantial research into the needs our work need to meet.
