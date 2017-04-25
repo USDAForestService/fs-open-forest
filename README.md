@@ -21,12 +21,12 @@ We welcome you to explore, make suggestions, and contribute to our code.
     - [Code repository](https://github.com/18F/fs-intake-module) 
     - [User stories and other requirements for current round of work](https://github.com/18F/bpa-fs-epermit-intake) 
 
+ - [Project Wiki](https://github.com/18F/fs-online-permitting/wiki) This details the work done so far, with details each month.
+
 - [Logic layer API](https://fs-middlelayer-api.app.cloud.gov/): the layer that handles communication between the development site (above) and Forest Service backend systems
     - [Code repository](https://github.com/18F/fs-middlelayer-api) 
     - [User stories and other requirements](https://github.com/18F/bpa-fs-epermit-api) 
     - [Schemas describing how ePermitting fields match SUDS fields](https://github.com/18F/fs-permit-api-schemas)
-
- - [Project Wiki](https://github.com/18F/fs-online-permitting/wiki) This details the work done so far, with details each month.
 
 ## Discovery research
 
