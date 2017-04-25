@@ -21,7 +21,8 @@ We welcome you to explore, make suggestions, and contribute to our code.
     - [Special Use Permit Application Intake Code Repository](https://github.com/18F/fs-intake-module) 
     - [Special Uses Permit Application Intake Solicitation Documents](https://github.com/18F/bpa-fs-epermit-intake) 
 
- - [Logic Layer API to Legacy Special Uses Data System solicitation documents](https://github.com/18F/bpa-fs-epermit-api) 
+- [Logic Layer API](https://fs-middlelayer-api.app.cloud.gov/)
+    - [Logic Layer API to Legacy Special Uses Data System solicitation documents](https://github.com/18F/bpa-fs-epermit-api) 
     - [Logic Layer API to Legacy Special Uses Data System code](https://github.com/18F/fs-middlelayer-api) 
     - [Schemas for Logic layer to underlying SUDS API fields](https://github.com/18F/fs-permit-api-schemas)
 
