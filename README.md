@@ -1,10 +1,10 @@
 # United States Forest Service Online Permitting
 
-### The focal point for 18F/TTS project with the United States Forest Service ePermitting project
+### A collection of documents and links related to the 18F/TTS Forest Service ePermitting project
 
 ## Welcome!
 
-The U.S. Forest Service is engaged in an ongoing effort to modernize and simplify their permitting processes. One facet of this effort is to make them available to obtain and purchase online.
+The U.S. Forest Service is engaged in an ongoing effort to modernize and simplify their permitting processes. One facet of this effort is to make them available to obtain and purchase online. GSA's Technology Transformation Service's Office of Acquisitions is working with the Forest Service to plan and build out this platform.
 
 ## Opportunity Statement
 
