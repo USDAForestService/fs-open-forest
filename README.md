@@ -30,7 +30,7 @@ We welcome you to explore, make suggestions, and contribute to our code.
 
 ## Discovery research
 
-We started this project with substantial research into the needs our work need to meet.
+We started this project with substantial research into the needs our work needs to meet.
 
 - [FS prototype](https://github.com/18F/forest-service-prototype) This repository includes user research conducted by 18F/TTS
     - [Discovery plan](https://github.com/18F/forest-service-prototype/blob/develop/docs/discovery-plan.pdf)
