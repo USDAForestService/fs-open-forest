@@ -16,12 +16,12 @@ Existing administrative systems *restrict, rather than facilitate,* responsible 
 
 We welcome you to explore, make suggestions, and contribute to our code.
 
+ - [Project principles, timelines and key documents](https://github.com/18F/fs-online-permitting/wiki): these pages describe the work done so far with links to key documents.
+
 - [Development site](https://forest-service-intake.app.cloud.gov/): a live version of our vendors' latest work
 
     - [Code repository](https://github.com/18F/fs-intake-module) 
     - [User stories and other requirements for current round of work](https://github.com/18F/bpa-fs-epermit-intake) 
-
- - [Project Wiki](https://github.com/18F/fs-online-permitting/wiki) This details the work done so far, with details each month.
 
 - [Logic layer API](https://fs-middlelayer-api.app.cloud.gov/): the layer that handles communication between the development site (above) and Forest Service backend systems
     - [Code repository](https://github.com/18F/fs-middlelayer-api) 
