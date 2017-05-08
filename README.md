@@ -35,5 +35,6 @@ We started this project with substantial research into the needs our work needs 
 - [FS prototype](https://github.com/18F/forest-service-prototype) This repository includes user research conducted by 18F/TTS
     - [Discovery plan](https://github.com/18F/forest-service-prototype/blob/develop/docs/discovery-plan.pdf)
     - [Special Uses workshop readout](https://github.com/18F/forest-service-prototype/blob/develop/docs/special-uses-read-out.pdf)
-    - [Christmas trees workshop readout](https://github.com/18F/forest-service-prototype/blob/develop/docs/christmas-tree-read-out.pdf)
+    - [Christmas tree workshop readout](https://github.com/18F/forest-service-prototype/blob/develop/docs/christmas-tree-read-out.pdf)
+    -  [Christmas tree Permitting Options](https://github.com/18F/fs-online-permitting/blob/xmas-tree-discovery/docs/christmas-tree-permitting-options.pdf)
     - [Round 1 UX findings](https://github.com/18F/forest-service-prototype/blob/develop/docs/round1-findings-reccomendations.pdf)
