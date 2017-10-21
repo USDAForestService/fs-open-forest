@@ -19,7 +19,7 @@ Existing administrative systems *restrict, rather than facilitate,* responsible 
 
 We welcome you to explore, make suggestions, and contribute to our code.
 
- - [Project principles, timelines and key documents](https://github.com/18F/fs-online-permitting/wiki): these pages describe the work done so far with links to key documents.
+ - [Project principles, timelines and key documents](https://github.com/18F/fs-online-permitting/wiki/Introduction): these pages describe the work done so far with links to key documents.
 
 - [Development site](https://forest-service-intake.app.cloud.gov/): a live version of our vendors' latest work
 
@@ -31,7 +31,7 @@ We welcome you to explore, make suggestions, and contribute to our code.
     - [User stories and other requirements](https://github.com/18F/bpa-fs-epermit-api) 
     - [Schemas describing how ePermitting fields match SUDS fields](https://github.com/18F/fs-permit-api-schemas)
     
-- [Modules deck](https://github.com/18F/fs-online-permitting/blob/rrefoy-patch-1/docs/modules.pptx)     
+- [Modules deck](https://github.com/18F/fs-online-permitting/blob/master/docs/modules.pdf)     
 
 ## Discovery research
 
