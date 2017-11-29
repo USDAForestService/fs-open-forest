@@ -36,7 +36,7 @@ We welcome you to explore, make suggestions, and contribute to our code.
 
 ## Discovery research
 
-Prior to our initial build, we research the processes our that will need to be brought online by our system.
+Prior to our initial build, we researched the processes that will need to be brought online by our system.
 
 - [FS prototype](https://github.com/18F/forest-service-prototype) This repository includes user research conducted by 18F/TTS
     - [Discovery plan](https://github.com/18F/forest-service-prototype/blob/develop/docs/discovery-plan.pdf)
