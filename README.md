@@ -23,7 +23,7 @@ We welcome you to explore, make suggestions, and contribute to our code.
 
 - [Development site](forest-service-epermit.app.cloud.gov): a live version of our vendors' latest work
 
-    - [Code repository](https://github.com/18F/fs-intake-module) 
+    - [Code repository](https://github.com/18F/fs-permit-platform) 
     - [User stories and other requirements for christmas tree permits](https://github.com/18F/bpa-fs-xmas-trees/blob/master/docs/RFQ.md#user-stories-for-front-end-layer)
     - [User stories and other requirements for special use applications](https://github.com/18F/bpa-fs-epermit-intake) 
 
