@@ -1,46 +1,92 @@
 # United States Forest Service Online Permitting
 
-
 [![FS ePermits Badge](https://img.shields.io/badge/-ePermit-006227.svg?colorA=FFC526&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAACFlBMVEUAAAD%2F%2FyXsvSW8qiXLsCXjuSXyvyX7wiX2wSXqvCXUsyXBrCXvviX%2F%2FyX8yCWUmyVliSV%2FkyV7kSWIlyV0jiWZnSX9yCXNsSXRsiXWtCVWgyVYhCXZtiX%2FyCV8kiV%2BkiX%2FyiX%2FzCWIliWElSX%2FzSX2wiVniSV3kCX2wiXUtCU5eCVujCXWtCW%2FqyXDrSWtpCWwpSWmoiWypiXeuCWJlyWPmSXiuiX%2F1CXsvSXFriW4qSWrpCWElCVdhiWSmiW3qCXCrSXQsiXyvyX%2F1CX%2F%2FyP%2F5yX%2F0iX%2FxCXrvCX%2FxiX%2F0iX%2F5yUcbCU6eCVAeiUfbiVEfCVEfCVZhCVEfCUzdSUtcyVAeyVNfyVZhCVGfSVEfCUqciUSaSUIZCUYayWPmSUUaiUCYiUVaiU1diVjiCUjcCVNfyVFfCXnuyU%2FeiUqciVliSVPgCWQmSUlcCVQgSV7kSX%2FxiWHliVPgCWPmSUtcyWLlyUibyVXgyWzpyX%2FxyXJryUXayVahCWIliWOmCU4eCV2jyXBrCXcuCXMsSVbhSUYaiV1jyU4eCVOgCVujCU6eCUudCWAkyUlcCVEfCVehiVYhCU%2FeiVvjSUSaSUAYiUAYiU1diWAlCUxdSUAYSUBYiUTaSVvjSVqiyVGfSUcbCUQaCUPaCUNZyULZiURaSUYayU6eCVehiVehiV1jyVmiSVOgCVRgSVSgSV2jyVxjSVvjSVMulUvAAAATHRSTlMAAGrao3NYUFdvndVtADfb%2Ffn2%2BP3cOMHAl%2F39lT7v7jsx6eozTPT2UoT%2B%2F4%2FGz%2FL46ut68%2FJ4B1Kau9Pu%2F%2BzQt5NMBgAKGUikQxYIJokgEwAAAFtJREFUCNdjZGBEBiwMvIy2jIcZGRkZrRiPMTIyiFsiJPcxMkgyOsJ4OxhZGFgYOeE6SeMyMuhGI0yew8LAxI3gMqFxGRmMGUthvBZGRgZzFEczMDC4QJlbGRgA3KAIv74V5FUAAAAASUVORK5CYII%3D)](README.md)
-
-### A collection of documents and links related to the 18F Acqusition Forest Service ePermitting project
 
 ## Welcome!
 
-The U.S. Forest Service is engaged in an ongoing effort to modernize and simplify their permitting processes. One facet of this effort is to make them available to obtain and purchase online. GSA's 18F Acquisition is working with the Forest Service to plan and build out this platform.
+This repo contains documentation describing the United States Forest Service (USFS) ePermits project. It is intended to be a place where project participants can keep track of the overall project goals, the decision framework, progress to date and learnings as we work. It is also intended to be a project 'homepage' where members can access important and up-to-date project information that exists somewhere else.
 
-## Opportunity statement
+## Vision
 
-#### The opportunity statement = the problem we are trying to solve with the ePermitting project
+As the first two-way interaction-focused Forest Service online application, ePermits will strengthen the connection between the public and the National Forests. The application will broaden and increase the public’s responsible access to public lands through online availability; a predictable, responsive and friendly experience; and reduced administrative burden. These enhancements will drive increased customer satisfaction and quality of public engagement.
 
-Existing administrative systems *restrict, rather than facilitate,* responsible use of the forest, and reduce the time spent on stewardship-oriented business and engaging Forest users. These processes and systems result in *low customer satisfaction, less business, and less of a connection* between people and their environment. We believe that by *digitizing these processes for the public,* we will allow Forest Service staff to focus on their primary job, and promote facilitation. And, we believe that this will lead to *better customer satisfaction and more permits.*
+The Forest Service will use agile development methods and modular procurements to develop the application, ensuring an adaptive process that responds to emergent user needs and changing requirements.
 
-## Project code repositories and sites
+## The Problem We're Solving
+
+Existing administrative systems restrict, rather than facilitate, responsible use of the forest, and reduce the time spent on stewardship-oriented business and engaging Forest users. These processes and systems result in sub-optimal customer satisfaction, less business, and less of a connection between people and their environment. 
+We aim to help build an agency culture that welcomes the public consistently (across units, despite being decentralized), focuses on customer service that connects people to the land (over trying to protect the land from them), and is open to change.
+
+## Our Hypothesis
+
+From a product perspective, we believe that by digitizing the permitting processes for the public, we will allow Forest Service staff to focus on their primary job, and help correct the current overemphasis on restriction rather than facilitation. And, we believe that this will lead to better customer satisfaction and more permits being issued.
+
+In terms of process, we want to move to a modular approach to procurement, emphasizing user centered design, agile product development, and modern devOps practices. This approach will allow us to make incremental improvements, ensure value is being delivered every step of the way, more easily adapt to changing requirements, and ensure long-term success by building a flexible and maintainable product.
+
+## Goals
+
+### Project goals:
+* Demonstrate effectiveness of and build capacity for modular contracting within the Forest Service
+* Build product ownership within the FS 
+* Build capacity to manage modern digital service projects with internal or contracted resources 
+
+### Product goals:
+* Provide the public with more flexible and online options for obtaining permits to use their public lands
+* Provide faster, more usable service to the public
+* Eliminate doubt and uncertainty during the permitting process
+* Standardize aspects of the permitting program across forests, resulting in an experience that is perceived as more fair
+* Reduce the workload for employees involved in the permitting process, so they can spend their time better serving the public, the land, and the agency
+* Drive related business process improvements
+
+## Key Stakeholders and User Groups
+
+Broadly speaking, the key stakeholder groups are:
+* USFS leadership / USFS CIO/ USFS CFO/ USFS Natural Resource Manager operations 
+* USDA stakeholders
+* Outfitter and Guides community (e.g  https://www.nols.edu)
+
+Note: Congress has expressed interest in increased recreational activities on public land
+
+Specific user groups are identified on a per-module basis:
+
+![Key user groups / Special uses / Outside the Forest Service: School groups and higher education organizations; Outfitters and guides; Non-profits; Other interested parties](https://user-images.githubusercontent.com/8389648/35126108-ffead562-fc60-11e7-8747-43d81040a5ef.png)
+
+![Key user groups / Special uses / Inside the Forest Service: Special use administrators; Decision makers involved in approving permits](https://user-images.githubusercontent.com/8389648/35126111-013f3aa2-fc61-11e7-9cf7-e0717c9c0b17.png)
+
+![Key user groups / Christmas trees: Front office staff: front liners, collection officers; Back office staff: program coordinators, resource specialists, timber management; Vendors: Ace Hardware, local chambers of commerce, etc.; General Public: families who celebrate Christmas, groups (church groups, etc), outdoor enthusiasts](https://user-images.githubusercontent.com/8389648/35126113-02835aba-fc61-11e7-8526-f9abea689f13.png)
+
+## Project Risks
+
+| Risks | Mitigation |
+| ----- | ---------- |
+| Lack of standard business practices across forests | Using a pilot model to onboard forests in small cohorts |
+| The depth of the vendor pool available that understands agile delivery and can do modular procurement might be limited | Use of Agile BPA; developing new ways to quickly assess agile delivery knowledge of potential vendors |
+| Lack of cloud hosting options within USDA | Using cloud.gov |
+| Combining multiple incomplete authentication systems | Building our own lightweight interim auth system, with expectation that a more sustainable option will emerge |
+| Limited number of FS staff dedicated to the project ||
+| Lack of an ATO means we are not yet in production and are not able to iterate based on feedback from active users | Sprintly usability testing on in-development module |
+| Modular approach means previously developed modules are not actively maintained | Rotating between modules - i.e. Special Use, then Christmas trees, then back to Special Use, then back to Christmas trees |
+| There are parallel permitting projects happening in other areas of NRM and BLM (this is both a risk and an opportunity) | Setting up demos and conversations with project teams ||
+Without updates to the POSS, the transfer of funds to individual forests will have to be manual and would therefore create risk of inaccurate or non-timely reimbursement | Work with USFS CFO's office to make necessary updates
+
+## Project code repositories, sites, RFQs, and RFIs
 
 We welcome you to explore, make suggestions, and contribute to our code.
 
- - [Project principles, timelines and key documents](https://github.com/18F/fs-online-permitting/wiki/Introduction): these pages describe the work done so far with links to key documents.
+- Scale-up: the next phase of the project is to scale up the Special Use module to include more forests
+   - [RFI](https://github.com/18F/its70-fs-epermit-scale-up) 
 
-- [Development site](forest-service-epermit.app.cloud.gov): a live version of our vendors' latest work
+- [Christmas Trees module](https://forest-service-trees-staging.app.cloud.gov/christmas-trees/forests): a live version of our vendors' latest work on the Christmas Trees module
+    - [Code repository](https://github.com/nciinc/fs-permit-platform)
+    - [RFQ](https://github.com/18F/bpa-fs-xmas-trees/blob/master/docs/RFQ.md)
 
-    - [Code repository](https://github.com/18F/fs-permit-platform) 
-    - [User stories and other requirements for christmas tree permits](https://github.com/18F/bpa-fs-xmas-trees/blob/master/docs/RFQ.md#user-stories-for-front-end-layer)
-    - [User stories and other requirements for special use applications](https://github.com/18F/bpa-fs-epermit-intake) 
+- [Special Use module](https://fs-intake-staging.app.cloud.gov/#/): a live version of our vendors' latest work
 
-- [Middlelayer API](https://fs-middlelayer-api.app.cloud.gov/): an application protocol interface (API) that that simplifies communication between the development site (above) and Forest Service backend system (NRM SUDS)
+    - [Code repository](https://github.com/18F/fs-intake-module) 
+    - [RFQ](https://github.com/18F/bpa-fs-epermit-intake) 
+
+- [Logic layer API](https://fs-middlelayer-api.app.cloud.gov/): the layer that handles communication between the development site (above) and Forest Service backend systems
     - [Code repository](https://github.com/18F/fs-middlelayer-api) 
-    - [User stories and other requirements](https://github.com/18F/bpa-fs-epermit-api) 
+    - [RFQ](https://github.com/18F/bpa-fs-epermit-api) 
     - [Schemas describing how ePermitting fields match SUDS fields](https://github.com/18F/fs-permit-api-schemas)
-    
-- [Proposed and potential major components of the system](https://github.com/18F/fs-online-permitting/blob/master/docs/modules.pdf)     
 
-## Discovery research
-
-Prior to our initial build, we researched the processes that will need to be brought online by our system.
-
-- [FS prototype](https://github.com/18F/forest-service-prototype) This repository includes user research conducted by 18F/TTS
-    - [Discovery plan](https://github.com/18F/forest-service-prototype/blob/develop/docs/discovery-plan.pdf)
-    - [Special Uses workshop readout](https://github.com/18F/forest-service-prototype/blob/develop/docs/special-uses-read-out.pdf)
-    - [Christmas tree workshop readout](https://github.com/18F/forest-service-prototype/blob/develop/docs/christmas-tree-read-out.pdf)
-    -  [Christmas tree Permitting Options](https://github.com/18F/fs-online-permitting/blob/xmas-tree-discovery/docs/christmas-tree-permitting-options.pdf)
-    - [Round 1 UX findings](https://github.com/18F/forest-service-prototype/blob/develop/docs/round1-findings-reccomendations.pdf)
