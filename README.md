@@ -14,7 +14,7 @@ The Forest Service will use agile development methods and modular procurements t
 
 ## The Problem We're Solving
 
-Existing administrative systems restrict, rather than facilitate, responsible use of the forest, and reduce the time spent on stewardship-oriented business and engaging Forest users. These processes and systems result in sub-optimal customer satisfaction, less business, and less of a connection between people and their environment. 
+Existing administrative systems restrict, rather than facilitate, responsible use of the forest, and reduce the time spent on stewardship-oriented business and engaging Forest users. These processes and systems result in sub-optimal customer satisfaction, less business, and less of a connection between people and their environment.
 We aim to help build an agency culture that welcomes the public consistently (across units, despite being decentralized), focuses on customer service that connects people to the land (over trying to protect the land from them), and is open to change.
 
 ## Our Hypothesis
@@ -27,8 +27,8 @@ In terms of process, we want to move to a modular approach to procurement, empha
 
 ### Project goals:
 * Demonstrate effectiveness of and build capacity for modular contracting within the Forest Service
-* Build product ownership within the FS 
-* Build capacity to manage modern digital service projects with internal or contracted resources 
+* Build product ownership within the FS
+* Build capacity to manage modern digital service projects with internal or contracted resources
 
 ### Product goals:
 * Provide the public with more flexible and online options for obtaining permits to use their public lands
@@ -41,7 +41,7 @@ In terms of process, we want to move to a modular approach to procurement, empha
 ## Key Stakeholders and User Groups
 
 Broadly speaking, the key stakeholder groups are:
-* USFS leadership / USFS CIO/ USFS CFO/ USFS Natural Resource Manager operations 
+* USFS leadership / USFS CIO/ USFS CFO/ USFS Natural Resource Manager operations
 * USDA stakeholders
 * Outfitter and Guides community (e.g  https://www.nols.edu)
 
@@ -74,7 +74,7 @@ Without updates to the POSS, the transfer of funds to individual forests will ha
 We welcome you to explore, make suggestions, and contribute to our code.
 
 - Scale-up: the next phase of the project is to scale up the Special Use module to include more forests
-   - [RFI](https://github.com/18F/its70-fs-epermit-scale-up) 
+   - [Request For Information](https://github.com/18F/its70-fs-epermit-scale-up) 
 
 - [Christmas Trees module](https://forest-service-trees-staging.app.cloud.gov/christmas-trees/forests): a live version of our vendors' latest work on the Christmas Trees module
     - [Code repository](https://github.com/nciinc/fs-permit-platform)
@@ -82,11 +82,10 @@ We welcome you to explore, make suggestions, and contribute to our code.
 
 - [Special Use module](https://fs-intake-staging.app.cloud.gov/#/): a live version of our vendors' latest work
 
-    - [Code repository](https://github.com/18F/fs-intake-module) 
-    - [RFQ](https://github.com/18F/bpa-fs-epermit-intake) 
+    - [Code repository](https://github.com/18F/fs-intake-module)
+    - [RFQ](https://github.com/18F/bpa-fs-epermit-intake)
 
 - [Logic layer API](https://fs-middlelayer-api.app.cloud.gov/): the layer that handles communication between the development site (above) and Forest Service backend systems
-    - [Code repository](https://github.com/18F/fs-middlelayer-api) 
-    - [RFQ](https://github.com/18F/bpa-fs-epermit-api) 
+    - [Code repository](https://github.com/18F/fs-middlelayer-api)
+    - [RFQ](https://github.com/18F/bpa-fs-epermit-api)
     - [Schemas describing how ePermitting fields match SUDS fields](https://github.com/18F/fs-permit-api-schemas)
-
