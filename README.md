@@ -74,7 +74,7 @@ Without updates to the POSS, the transfer of funds to individual forests will ha
 We welcome you to explore, make suggestions, and contribute to our code.
 
 - Scale-up: the next phase of the project is to scale up the Special Use module to include more forests
-   - [Request For Information](https://github.com/18F/its70-fs-epermit-scale-up) 
+   - [Request for information](https://github.com/18F/its70-fs-epermit-scale-up)
 
 - [Christmas Trees module](https://forest-service-trees-staging.app.cloud.gov/christmas-trees/forests): a live version of our vendors' latest work on the Christmas Trees module
     - [Code repository](https://github.com/nciinc/fs-permit-platform)
