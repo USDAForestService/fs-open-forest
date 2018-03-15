@@ -62,7 +62,7 @@ Specific user groups are identified on a per-module basis:
 | Lack of standard business practices across forests | Using a pilot model to onboard forests in small cohorts |
 | The depth of the vendor pool available that understands agile delivery and can do modular procurement might be limited | Use of Agile BPA; developing new ways to quickly assess agile delivery knowledge of potential vendors |
 | Lack of cloud hosting options within USDA | Using cloud.gov |
-| Combining multiple incomplete authentication systems | Building our own lightweight interim auth system, with expectation that a more sustainable option will emerge |
+| Existing user group management systems do not fully meet system needs for administrative authorization and user role policies  | Building our own lightweight interim authorization system, with expectation that a more sustainable option will emerge, in conjunction with USDA ICAM eAuth integration for Forest Service staff.  |
 | Limited number of FS staff dedicated to the project ||
 | Lack of an ATO means we are not yet in production and are not able to iterate based on feedback from active users | Sprintly usability testing on in-development module |
 | Modular approach means previously developed modules are not actively maintained | Rotating between modules - i.e. Special Use, then Christmas trees, then back to Special Use, then back to Christmas trees |
