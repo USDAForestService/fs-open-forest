@@ -85,7 +85,7 @@ We welcome you to explore, make suggestions, and contribute to our code.
     - [Code repository](https://github.com/18F/fs-permit-platform)
     - [RFQ](https://github.com/18F/bpa-fs-xmas-trees/blob/master/docs/RFQ.md)
 
-- [Special Use](https://forest-service-epermit.app.cloud.gov/christmas-trees/forests) a live version of our vendors' latest work
+- [Special Use](https://forest-service-epermit.app.cloud.gov/) a live version of our vendors' latest work
 
     - [Code repository](https://github.com/18F/fs-permit-platform)
     - [RFQ](https://github.com/18F/bpa-fs-epermit-intake)
