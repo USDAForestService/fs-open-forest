@@ -6,6 +6,11 @@
 
 This repo contains documentation describing the United States Forest Service (USFS) ePermits project. It is intended to be a place where project participants can keep track of the overall project goals, the decision framework, progress to date and learnings as we work. It is also intended to be a project 'homepage' where members can access important and up-to-date project information that exists somewhere else.
 
+## The Product
+
+[![United States Forest Service Online Demonstration Youtube Link](https://github.com/18F/fs-online-permitting/blob/add-video/imgs/usfs-online-permit-demonstration.png?raw=true)](https://www.youtube.com/watch?v=dDVN2pL9xFs&t=5s)
+
+
 ## Vision
 
 As the first two-way interaction-focused Forest Service online application, ePermits will strengthen the connection between the public and the National Forests. The application will broaden and increase the public’s responsible access to public lands through online availability; a predictable, responsive and friendly experience; and reduced administrative burden. These enhancements will drive increased customer satisfaction and quality of public engagement.
@@ -76,13 +81,13 @@ We welcome you to explore, make suggestions, and contribute to our code.
 - Scale-up: the next phase of the project is to scale up the Special Use module to include more forests
    - [Request for information](https://github.com/18F/its70-fs-epermit-scale-up)
 
-- [Christmas Trees module](https://forest-service-trees-staging.app.cloud.gov/christmas-trees/forests): a live version of our vendors' latest work on the Christmas Trees module
-    - [Code repository](https://github.com/nciinc/fs-permit-platform)
+- [Christmas Tree Module](https://forest-service-epermit.app.cloud.gov/christmas-trees/forests): a live version of our vendors' latest work on the Christmas Trees module
+    - [Code repository](https://github.com/18F/fs-permit-platform)
     - [RFQ](https://github.com/18F/bpa-fs-xmas-trees/blob/master/docs/RFQ.md)
 
-- [Special Use module](https://fs-intake-staging.app.cloud.gov/#/): a live version of our vendors' latest work
+- [Special Use](https://forest-service-epermit.app.cloud.gov/) a live version of our vendors' latest work
 
-    - [Code repository](https://github.com/18F/fs-intake-module)
+    - [Code repository](https://github.com/18F/fs-permit-platform)
     - [RFQ](https://github.com/18F/bpa-fs-epermit-intake)
 
 - [Logic layer API](https://fs-middlelayer-api.app.cloud.gov/): the layer that handles communication between the development site (above) and Forest Service backend systems
