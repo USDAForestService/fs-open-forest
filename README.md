@@ -4,7 +4,7 @@
 
 ## Welcome!
 
-This repo contains documentation describing the United States Forest Service (USFS) ePermits project. It is intended to be a place where project participants can keep track of the overall project goals, the decision framework, progress to date and learnings as we work. It is also intended to be a project 'homepage' where members can access important and up-to-date project information that exists somewhere else.
+This repo contains documentation describing the United States Forest Service (USFS) Open Forest project. It is intended to be a place where project participants can keep track of the overall project goals, the decision framework, progress to date and learnings as we work. It is also intended to be a project 'homepage' where members can access important and up-to-date project information that exists somewhere else.
 
 ## The Product
 
@@ -13,7 +13,7 @@ This repo contains documentation describing the United States Forest Service (US
 
 ## Vision
 
-As the first two-way interaction-focused Forest Service online application, ePermits will strengthen the connection between the public and the National Forests. The application will broaden and increase the public’s responsible access to public lands through online availability; a predictable, responsive and friendly experience; and reduced administrative burden. These enhancements will drive increased customer satisfaction and quality of public engagement.
+As the first two-way interaction-focused Forest Service online application, Open Forest will strengthen the connection between the public and the National Forests. The online permitting application will broaden and increase the public’s responsible access to public lands through online availability; a predictable, responsive and friendly experience; and reduced administrative burden. These enhancements will drive increased customer satisfaction and quality of public engagement.
 
 The Forest Service will use agile development methods and modular procurements to develop the application, ensuring an adaptive process that responds to emergent user needs and changing requirements.
 
