@@ -8,7 +8,7 @@ This repo contains documentation describing the United States Forest Service (US
 
 ## The Product
 
-[![United States Forest Service Online Demonstration Youtube Link](https://github.com/18F/fs-online-permitting/blob/add-video/imgs/usfs-online-permit-demonstration.png?raw=true)](https://www.youtube.com/watch?v=dDVN2pL9xFs&t=5s)
+[![United States Forest Service Online Demonstration Youtube Link](https://github.com/18F/fs-open-forest/blob/add-video/imgs/usfs-online-permit-demonstration.png?raw=true)](https://www.youtube.com/watch?v=dDVN2pL9xFs&t=5s)
 
 
 ## Vision
@@ -82,15 +82,15 @@ We welcome you to explore, make suggestions, and contribute to our code.
    - [Request for information](https://github.com/18F/its70-fs-epermit-scale-up)
 
 - [Christmas Tree Module](https://forest-service-epermit.app.cloud.gov/christmas-trees/forests): a live version of our vendors' latest work on the Christmas Trees module
-    - [Code repository](https://github.com/18F/fs-permit-platform)
+    - [Code repository](https://github.com/18F/fs-open-forest-platform)
     - [RFQ](https://github.com/18F/bpa-fs-xmas-trees/blob/master/docs/RFQ.md)
 
 - [Special Use](https://forest-service-epermit.app.cloud.gov/) a live version of our vendors' latest work
 
-    - [Code repository](https://github.com/18F/fs-permit-platform)
+    - [Code repository](https://github.com/18F/fs-open-forest-platform)
     - [RFQ](https://github.com/18F/bpa-fs-epermit-intake)
 
 - [Logic layer API](https://fs-middlelayer-api.app.cloud.gov/): the layer that handles communication between the development site (above) and Forest Service backend systems
-    - [Code repository](https://github.com/18F/fs-middlelayer-api)
+    - [Code repository](https://github.com/18F/fs-open-forest-middlelayer-api)
     - [RFQ](https://github.com/18F/bpa-fs-epermit-api)
     - [Schemas describing how ePermitting fields match SUDS fields](https://github.com/18F/fs-permit-api-schemas)
