@@ -76,21 +76,4 @@ Without updates to the POSS, the transfer of funds to individual forests will ha
 
 ## Project code repositories, sites, RFQs, and RFIs
 
-We welcome you to explore, make suggestions, and contribute to our code.
-
-- Scale-up: the next phase of the project is to scale up the Special Use module to include more forests
-   - [Request for information](https://github.com/18F/its70-fs-epermit-scale-up)
-
-- [Christmas Tree Module](https://forest-service-epermit.app.cloud.gov/christmas-trees/forests): a live version of our vendors' latest work on the Christmas Trees module
-    - [Code repository](https://github.com/18F/fs-open-forest-platform)
-    - [RFQ](https://github.com/18F/bpa-fs-xmas-trees/blob/master/docs/RFQ.md)
-
-- [Special Use](https://forest-service-epermit.app.cloud.gov/) a live version of our vendors' latest work
-
-    - [Code repository](https://github.com/18F/fs-open-forest-platform)
-    - [RFQ](https://github.com/18F/bpa-fs-epermit-intake)
-
-- [Logic layer API](https://fs-middlelayer-api.app.cloud.gov/): the layer that handles communication between the development site (above) and Forest Service backend systems
-    - [Code repository](https://github.com/18F/fs-open-forest-middlelayer-api)
-    - [RFQ](https://github.com/18F/bpa-fs-epermit-api)
-    - [Schemas describing how ePermitting fields match SUDS fields](https://github.com/18F/fs-permit-api-schemas)
+We welcome you to explore, make suggestions, and contribute to our code. You can [find out about our project repositories here](https://github.com/18F/fs-open-forest/wiki/Repositories) in the wiki.
