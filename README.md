@@ -6,4 +6,4 @@
 
 This repo contains documentation describing the United States Forest Service (USFS) Open Forest project. To learn about the project, what it can do, and why it's important, we invite you to visit our [project wiki](https://github.com/18F/fs-open-forest/wiki). The wiki is designed to help project participants keep track of the overall project goals, the decision framework, progress to date and learnings as we work. It is also intended to be a project 'homepage' where members can access important and up-to-date project information that exists somewhere else.
 
-### [Visit the wiki](https://github.com/18F/fs-open-forest/wiki)
+### [Visit the wiki](https://github.com/USDAForestService/fs-open-forest/wiki)
